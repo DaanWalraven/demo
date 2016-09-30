@@ -1,5 +1,3 @@
-# Demo Project README
+# Licence
 
-This is a simple readme file
-
-## Heading 2
+## Apache 2.0
